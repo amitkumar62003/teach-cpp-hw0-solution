@@ -3,6 +3,7 @@
 
 bool isPrimeNumber(int num);
 
+
 //find nth prime number from the beginning
 int PrimeNumber(int input) {
 
